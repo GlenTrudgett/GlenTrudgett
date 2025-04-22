@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
 
-<!--
-**GlenTrudgett/GlenTrudgett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in making IT Operational Management processes and procedures into useful and consistent automation.
+Each consistent automation builds on the last. At least that is the ideal I work towards.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning better software development workflows to make life easier for me and my team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact:
+  - Providing Forms for your team, prompts the user for the necessary information required.
+  - Formatting output in a consistent manner provides:
+    - Clear and Consistent Communication
+    - Automation opportunities in reporting and alerting.
+    - Lowers the cognitive load
+  - The simplest automation steps create a "time gap", which can leverage the creation of further automation. It's cyclical!
+  - Less in the majority of cases, is more!
+
